@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: 동철이의 딥러닝일기
+description: 딥러닝을 공부하고 항해학을 전공하는 노동철입니다
+url: https://dongcheol-noh.github.io/
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
